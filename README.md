@@ -1,3 +1,4 @@
 # Klouderp-RPA
-1. Install Python 2.7 and pip (for install lib) and set variavle environment for python on Windows
-2. 
+Install KloudERP-Assistant.exe apps and open.
+Now Open Klouderp.com web apps and go on your account or login page so now you can see login with QRCode scan or email, password.
+Open play store on your mobile and go on kloudERP apps
