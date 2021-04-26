@@ -6,8 +6,8 @@
 
 2. If you want login using QR code so open play store on your mobile and search kloudERP apps and install. After apps installation open a login page and login using your mobile      no. Open QR code scanner on your mobile app and scan QR code which will be open klouderp.com login page, Now you can login using QR code anytime anywhere.
 
-3. Open your account on klodeERP then search and install RPA app in Kloderp web app. Open RPA
+3. Open your account on klodeERP then search and install RPA app in Kloderp web app. Open RPA.
 
 4. Install KloudERP-Assistant.exe apps and open. Now you can see login page which is login using QR code scanner so now open any klouderp app on your mobile and scan QR code then    you are login.
-5. Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page
+5. Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page.
 
