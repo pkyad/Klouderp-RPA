@@ -8,8 +8,8 @@
 
 **Required apps**
 
-i)  KloudeERP Assistant (klouderp-Assistant.exe for Windows)
-ii) KloudERP app (klouderp.apk for Android) for login your account using QR Code Scanner.
+1. KloudeERP Assistant (klouderp-Assistant.exe for Windows)
+2. KloudERP app (klouderp.apk for Android) for login your account using QR Code Scanner.
 
 1. Open Klouderp.com web apps, if you have already an account go on your account otherwise open login page. There are three type of login.
 i.   using QRCode scan    
