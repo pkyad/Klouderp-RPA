@@ -2,9 +2,9 @@
 
 **Required package or lib**
 
-i)  python with pip (pip for download required lib)
-ii) Selenium (for automation) package
-iii)Klouderp package ()
+1. python with pip (pip for download required lib)
+2. Selenium (for automation) package
+3. Klouderp package ()
 
 **Required apps**
 
