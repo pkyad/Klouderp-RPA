@@ -16,5 +16,5 @@ iii. Open QR code scanner on your mobile app and scan QR code which will be open
 3. Open your account on klodeERP then search and install RPA app in Kloderp web app and open.
 
 4. Install KloudERP-Assistant.exe apps and open. Now you can see login page which is login using QR code scanner so now open any klouderp app on your mobile and scan QR code then    you are login.
-5. Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page then click on Connect Button..
-
+5. Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page then click on Connect Button. If your machine key are exist then update your status offline to online otherwise show a message invalid machine key.
+6. Now you are connected RPA Orchestrator
