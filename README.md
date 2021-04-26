@@ -1,20 +1,20 @@
 # Klouderp-RPA
 
-Required package or lib
+**Required package or lib**
 
-i)  python with pip (pip for download required lib)
-ii) Selenium (for automation) package
-iii)Klouderp package ()
+i)  *python with pip (pip for download required lib)
+ii) *Selenium (for automation) package
+iii)*Klouderp package ()
 
-Required apps
+**Required apps**
 
-i)  KloudeERP Assistant (klouderp-Assistant.exe for Windows)
-ii) KloudERP app (klouderp.apk for Android) for login your account using QR Code Scanner.
+i)  *KloudeERP Assistant (klouderp-Assistant.exe for Windows)
+ii) *KloudERP app (klouderp.apk for Android) for login your account using QR Code Scanner.
 
 1. Open Klouderp.com web apps, if you have already an account go on your account otherwise open login page. There are three type of login.
-i.   using QRCode scan    
-ii.  mobile number and OTP 
-iii. using email id and password.
+i.   *using QRCode scan    
+ii. * mobile number and OTP 
+iii. *using email id and password.
 
 
     https://user-images.githubusercontent.com/10446918/116033685-79d52000-a67f-11eb-9751-60107613cca0.png
