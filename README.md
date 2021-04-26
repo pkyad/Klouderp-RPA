@@ -18,7 +18,7 @@ Open Klouderp.com web apps, if you have already an account go on your account ot
 
 
     ![Image of login](https://user-images.githubusercontent.com/10446918/116033685-79d52000-a67f-11eb-9751-60107613cca0.png)
-    https://user-images.githubusercontent.com/10446918/116033772-a4bf7400-a67f-11eb-947d-e6374eb5e358.png
+    ![Image of login1](https://user-images.githubusercontent.com/10446918/116033772-a4bf7400-a67f-11eb-947d-e6374eb5e358.png)
 
 If you want to login using QR code :
 1.  Open play store on your mobile and search kloudERP apps and install. 
