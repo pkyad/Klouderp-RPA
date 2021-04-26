@@ -1,5 +1,6 @@
 # Klouderp-RPA
 1. Open Klouderp.com web apps, if you have already an account go on your account otherwise open login page. There are three type of login.
+
 i.   using QRCode scan    
 ii.  mobile number and OTP 
 iii. using email id and password.
