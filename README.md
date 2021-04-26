@@ -4,6 +4,7 @@ i.   using QRCode scan
 ii.  mobile number and OTP 
 iii. using email id and password.
 
+
     https://user-images.githubusercontent.com/10446918/116033685-79d52000-a67f-11eb-9751-60107613cca0.png
     https://user-images.githubusercontent.com/10446918/116033772-a4bf7400-a67f-11eb-947d-e6374eb5e358.png
 
