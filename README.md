@@ -14,10 +14,9 @@
 Open Klouderp.com web apps, if you have already an account go on your account otherwise open login page. There are three type of login.
 1.  using QRCode scan    
 2.  mobile number and OTP 
-3. using email id and password.
-
-
     ![Image of login](https://user-images.githubusercontent.com/10446918/116033685-79d52000-a67f-11eb-9751-60107613cca0.png)
+    
+ 3. using email id and password.
     ![Image of login1](https://user-images.githubusercontent.com/10446918/116033772-a4bf7400-a67f-11eb-947d-e6374eb5e358.png)
 
 If you want to login using QR code :
