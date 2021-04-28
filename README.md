@@ -54,6 +54,7 @@ We are creating a process for adding two number.
 4. Open your github account then open test repositories and copy for clone.
 5. now paste your clone url on process uri field.
 
-### Let's create a Machine on KloudERP-RPA
-1. Click on **Machine** and add a machine.
-2. Write machine name and save it, process uri and environment.
+### Let's create a Job on KloudERP-RPA
+1. Click on **Job** and add a Job.
+2. Select a process
+3. Fill all fields like job name, email and mobile number.
