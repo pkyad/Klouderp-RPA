@@ -3,8 +3,9 @@
 **Required package or lib**
 
 1. python with pip (pip for download required lib)
-2. Selenium (for automation) package
-3. Klouderp package ()
+2. Git bash (Install git)
+3. Selenium (for automation) package
+4. Klouderp package ()
 
 **Required apps**
 
@@ -27,6 +28,15 @@ If you want to login using QR code :
 Open your account on klodeERP then search and install RPA app in Kloderp web app and open.
 
 Install KloudERP-Assistant.exe apps and open. Now you can see login page which is login using QR code scanner so now open any klouderp app on your mobile and scan QR code then    you are login.
+
 Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page then click on Connect Button. If your machine key are exist then update your status offline to online otherwise show a message invalid machine key.
 
-Now you are connected RPA Orchestrator
+Now you are connected RPA Orchestrator.
+
+*Create a proccess on Github*
+We need a *github account* and *git bash* for create a proccess and push processes that git repositories.
+We are creating a process for add two number.
+
+*let'create a process*
+1. Create a file in python, file name is test.py and extention (.py)
+2.   
