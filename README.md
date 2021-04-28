@@ -33,10 +33,10 @@ Now you can go on system tray icon of klouderp on your system and right click on
 
 Now you are connected RPA Orchestrator.
 
-*Create a proccess on Github*
-We need a *github account* and *git bash* for create a proccess and push processes that git repositories.
+**Create a proccess on Github**
+We need a **github account** and **git bash** for create a proccess and push processes that git repositories.
 We are creating a process for add two number.
 
-*let'create a process*
+**let'create a process**
 1. Create a file in python, file name is test.py and extention (.py)
-2.   
+2. 
