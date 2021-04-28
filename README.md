@@ -1,13 +1,13 @@
-### Klouderp-RPA
+# Klouderp-RPA
 
-#**Required package or lib**
+###Required package or lib
 
 1. python with pip (pip for download required lib)
 2. Git bash (Install git)
 3. Selenium (for automation) package
 4. Klouderp package ()
 
-#**Required apps**
+###Required apps
 
 1. KloudeERP Assistant (klouderp-Assistant.exe for Windows)
 2. KloudERP app (klouderp.apk for Android) for login your account using QR Code Scanner.
