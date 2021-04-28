@@ -29,22 +29,31 @@ Open your account on klodeERP then search and install RPA app in Kloderp web app
 
 Install KloudERP-Assistant.exe apps and open. Now you can see login page which is login using QR code scanner so now open any klouderp app on your mobile and scan QR code then    you are login.
 
-Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page then click on Connect Button. If your machine key are exist then update your status offline to online otherwise show a message invalid machine key.
+Now you can go on system tray icon of klouderp on your system and right click on KloudERP and select Connections. if you have machine key then paste here otherwise go on          Klouderp and open RPA then click on machine and add a machine after save a new machine copy machine key and paste kloudERP Assistent connections page then click on Connect Button. If your machine key are exist then update your status offline to online otherwise show a message invalid machine key.
 
-Now you are connected RPA Orchestrator.
+Now you are connected RPA Orchestrator. Now 
 
-#### Create a proccess on Github
+### Let's create a Machine on KloudERP-RPA (if you are created already machine then skip its)
+1. Now login on KloudERP then open RPA
+2. Click on **Machine** and add a machine.
+3. Write machine name and save it, process uri and environment.
+
+### Create a proccess on Github
 We need a **github account** and **git bash** for create a proccess and push processes that git repositories.
 We are creating a process for adding two number.
 
-#### Let'create a process
+### Let's create a process on KloudERP-RPA
 1. Create a python file, file name is test.py which is extention ".py".
 2. Write to python code for two number addition in test.py.
 3. Save to file and git push your code on github repositories.
 
-#### Let's add you process on KloudERP-RPA app
+### Let's create your process on KloudERP-RPA
 1. Now login on KloudERP then open RPA
 2. Click on **Proccess** and add a Process.
 3. Fill all fields like Process name, process uri and environment.
 4. Open your github account then open test repositories and copy for clone.
 5. now paste your clone url on process uri field.
+
+### Let's create a Machine on KloudERP-RPA
+1. Click on **Machine** and add a machine.
+2. Write machine name and save it, process uri and environment.
