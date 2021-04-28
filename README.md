@@ -1,4 +1,4 @@
-# Klouderp-RPA
+### Klouderp-RPA
 
 **Required package or lib**
 
@@ -37,7 +37,7 @@ Now you are connected RPA Orchestrator.
 We need a **github account** and **git bash** for create a proccess and push processes that git repositories.
 We are creating a process for adding two number.
 
-**let'create a process**
+**Let'create a process**
 1. Create a python file, file name is test.py which is extention ".py".
 2. Write to python code for two number addition in test.py.
 3. Save to file and git push your code on github repositories.
