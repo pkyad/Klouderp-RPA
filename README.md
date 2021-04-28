@@ -35,8 +35,16 @@ Now you are connected RPA Orchestrator.
 
 **Create a proccess on Github**
 We need a **github account** and **git bash** for create a proccess and push processes that git repositories.
-We are creating a process for add two number.
+We are creating a process for adding two number.
 
 **let'create a process**
-1. Create a file in python, file name is test.py and extention (.py)
-2. 
+1. Create a python file, file name is test.py which is extention ".py".
+2. Write to python code for two number addition in test.py.
+3. Save to file and git push your code on github repositories.
+
+**Let's add you process on KloudERP-RPA app**
+1. Now login on KloudERP then open RPA
+2. Click on **Proccess** and add a Process.
+3. Fill all fields like Process name, process uri and environment.
+4. Open your github account then open test repositories and copy for clone.
+5. now paste your clone url on process uri field.
